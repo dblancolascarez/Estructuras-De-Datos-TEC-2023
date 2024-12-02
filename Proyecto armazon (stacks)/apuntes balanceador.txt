@@ -1,0 +1,4 @@
+1-read each file from folder!!
+2-check each file details with articulos.txt
+3-if check is good move to CarpetaPedidosPendientes // if check is
+  wrong move to CarpetaPedidosError

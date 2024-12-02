@@ -1,0 +1,4 @@
+001	XYZ S.A.	10
+002	ABC S.A.	2
+003	HOLA	4
+004	Haaa	5
